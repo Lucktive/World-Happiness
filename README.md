@@ -1,5 +1,5 @@
 # World-Happiness
-This is a MS Excel  and MS Power Point
+This is a MS Excel  and MS Power Point.
 Results are presented with Microsoft Power Point.
 
 DATA CLEANING: Data Cleaning is done to get an error free Data Analysis and high quality data for further analysis.
